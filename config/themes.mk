@@ -37,5 +37,5 @@
 #    BarsWiFiOverlay
 
 # Themes
-#PRODUCT_PACKAGES += \
-#    AndroidBlackThemeOverlay
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
